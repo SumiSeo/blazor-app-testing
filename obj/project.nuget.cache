@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "afCH0w73gIqvJc18MLNT1/N1eGIVl2uLyeyz4H8LjzJ+YdrOlZaQxVMYK+44GW/oDsc5QGwLRdhhOhp3SjvVXA==",
+  "success": true,
+  "projectFilePath": "/Users/sumi/Desktop/BlazorAppTesting/BlazorAppTesting.csproj",
+  "expectedPackageFiles": [
+    "/Users/sumi/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/sumi/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512",
+    "/Users/sumi/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
