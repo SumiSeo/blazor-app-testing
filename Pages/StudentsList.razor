@@ -1,0 +1,50 @@
+﻿@page "/students"
+
+
+<PageTitle>students</PageTitle>
+
+<h1>Here you can see all students list</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@firstColumn</th>
+            <th>Age</th>
+            <th>University </th>
+            <th>@Column2</th>
+        </tr>
+    </thead>
+    <tbody>
+      
+    </tbody>
+</table>
+
+@code {
+
+    private string firstColumn = "";
+
+    [Parameter]
+    public string Column1 { get; set; } = "name";
+
+    [Parameter]
+    public int Column2 { get; set; }
+
+    protected override void OnParametersSet()
+    {
+        Console.WriteLine("Parameters set");
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        Console.WriteLine("After render");
+    }
+
+    protected override void OnInitialized()
+    {
+        Console.WriteLine("on Initialized");
+        firstColumn = Column1 ?? "Test";
+        Column2 = Column2 >0 ? Column2:0;
+
+    }
+}
+

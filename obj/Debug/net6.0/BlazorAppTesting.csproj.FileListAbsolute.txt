@@ -41,6 +41,11 @@
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/BlazorAppTesting.MvcApplicationPartsAssemblyInfo.cache
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/BlazorAppTesting.RazorAssemblyInfo.cache
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/BlazorAppTesting.RazorAssemblyInfo.cs
+/Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets/msbuild.BlazorAppTesting.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets/msbuild.build.BlazorAppTesting.props
+/Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BlazorAppTesting.props
+/Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BlazorAppTesting.props
+/Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets.pack.json
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets.build.json
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets.development.json
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
@@ -52,8 +57,3 @@
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/BlazorAppTesting.pdb
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/BlazorAppTesting.genruntimeconfig.cache
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/ref/BlazorAppTesting.dll
-/Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets/msbuild.BlazorAppTesting.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets/msbuild.build.BlazorAppTesting.props
-/Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BlazorAppTesting.props
-/Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BlazorAppTesting.props
-/Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/staticwebassets.pack.json

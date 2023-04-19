@@ -1,13 +1,6 @@
 ﻿<Properties StartupConfiguration="{09936B69-B247-453B-8312-F85483F84149}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Counter.razor">
-    <Files>
-      <File FileName="Pages/Index.razor" />
-      <File FileName="App.razor" />
-      <File FileName="Program.cs" />
-      <File FileName="Pages/Counter.razor" Line="4" Column="19" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -19,22 +12,29 @@
               <Node name="Data" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="Counter.razor" selected="True" />
-                <Node name="Error.cshtml" expanded="True" />
               </Node>
               <Node name="Properties" expanded="True" />
-              <Node name="Shared" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="NavMenu.razor" expanded="True" />
+              </Node>
               <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
+                <Node name="css" expanded="True">
+                  <Node name="open-iconic" expanded="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BlazorAppTesting PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BlazorAppTesting PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
