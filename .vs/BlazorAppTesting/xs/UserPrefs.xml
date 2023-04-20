@@ -1,6 +1,15 @@
 ﻿<Properties StartupConfiguration="{09936B69-B247-453B-8312-F85483F84149}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BlazorAppTesting PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.razor">
+    <Files>
+      <File FileName="Pages/StudentsList.razor" />
+      <File FileName="Pages/Index.razor" Line="18" Column="14" />
+      <File FileName="Properties/launchSettings.json" Line="9" Column="5" />
+      <File FileName="Pages/Counter.razor" NotebookId="1" />
+      <File FileName="Pages/StudentForm.razor" Line="25" Column="2" NotebookId="1" />
+      <File FileName="Shared/SurveyPrompt.razor" NotebookId="1" />
+      <File FileName="Pages/FetchData.razor" NotebookId="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -11,7 +20,7 @@
               </Node>
               <Node name="Data" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="Counter.razor" selected="True" />
+                <Node name="Index.razor" selected="True" />
               </Node>
               <Node name="Properties" expanded="True" />
               <Node name="Shared" expanded="True">
@@ -31,10 +40,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.BlazorAppTesting PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

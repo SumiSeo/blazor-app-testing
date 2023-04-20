@@ -57,3 +57,4 @@
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/BlazorAppTesting.pdb
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/BlazorAppTesting.genruntimeconfig.cache
 /Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/ref/BlazorAppTesting.dll
+/Users/sumi/Desktop/BlazorAppTesting/obj/Debug/net6.0/scopedcss/Pages/StudentsList.razor.rz.scp.css
